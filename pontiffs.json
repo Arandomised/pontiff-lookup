@@ -1,0 +1,88 @@
+[
+    {
+        "pontiffNo": 267,
+        "name": "Leo",
+        "order": 14,
+        "pontificate": { "voted": { "year": 2025, "month": 5, "day": 5 }, "start": { "year": 2025, "month": 5, "day": 18 } },
+        "secularName": "Robert Francis Prevost",
+        "birthPlace": "Chicago (United States)",
+        "image": {
+            "name": "leo-14-small.png",
+            "detail": "Pope Leo XIV in 2025.",
+            "sourceURL":
+                "https://commons.wikimedia.org/wiki/File:Pope_Leo_XIV_2_(cropped).png",
+            "license": "CC BY-SA 4.0",
+            "licenseURL":
+                "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+            "author": "Edger Beltrán",
+            "year": 2025
+        }
+    },
+    {
+        "pontiffNo": 266,
+        "name": "Francis",
+        "order": 1,
+        "pontificate": {
+            "voted": { "year": 2013, "month": 3, "day": 13 },
+            "start": { "year": 2013, "month": 3, "day": 19 },
+            "end": { "year": 2025, "month": 4, "day": 21 }
+        },
+        "secularName": "Jorge Mario Bergoglio",
+        "birthPlace": "Buenos Aires (Argentina)",
+        "image": {
+            "name": "francis-01-small.png",
+            "detail": "Pope Francis I in 2014.",
+            "sourceURL":
+                "https://commons.wikimedia.org/wiki/File:Pope_Francis_Korea_Haemi_Castle_19_(4x5_cropped).jpg",
+            "license": "CC BY-SA 2.0",
+            "licenseURL":
+                "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+            "author": "Korea.net / Korean Culture and Information Service (Photographer name)",
+            "year": 2014
+        }
+    },
+    {
+        "pontiffNo": 265,
+        "name": "Benedict",
+        "order": 16,
+        "pontificate": {
+            "voted": { "year": 2005, "month": 4, "day": 19 },
+            "start": { "year": 2005, "month": 4, "day": 24 },
+            "end": { "year": 2013, "month": 2, "day": 28 }
+        },
+        "secularName": "Joseph Ratzinger",
+        "birthPlace": "Marktl am Inn (Bavaria)",
+        "image": {
+            "name": "benedict-16-small.png",
+            "detail": "Pope Benedict XVI in 2008.",
+            "sourceURL":
+                "https://commons.wikimedia.org/wiki/File:Benedict_XVI_Blessing-1.jpg",
+            "license": "CC BY 3.0",
+            "licenseURL": "https://creativecommons.org/licenses/by/3.0/deed.en",
+            "author": "Rvin88 and Jüppsche",
+            "year": 2011
+        }
+    },
+    {
+        "pontiffNo": 264,
+        "name": "John Paul",
+        "order": 2,
+        "pontificate": {
+            "voted": { "year": 1978, "month": 10, "day": 16 },
+            "start": { "year": 1978, "month": 10, "day": 22 },
+            "end": { "year": 2005, "month": 4, "day": 2 }
+        },
+        "secularName": "Karol Wojtyła",
+        "birthPlace": "Wadowice (Kraków)",
+        "image": {
+            "name": "john-paul-02-small.png",
+            "detail": "Pope John Paul II in 1984.",
+            "sourceURL":
+                "https://commons.wikimedia.org/wiki/File:Ritratto_di_papa_Giovanni_Paolo_II_(1984_%E2%80%93_edited).jpg",
+            "license":
+                "The copyright holder of this file allows anyone to use it for any purpose, provided that the copyright holder is properly attributed. Redistribution, derivative work, commercial use, and all other use is permitted. Attribution: Quirinale.it",
+            "author": "Quirinale.it",
+            "year": 1984
+        }
+    }
+]

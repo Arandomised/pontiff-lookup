@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "checkJs": true,
+        "target": "es2015",
+        "lib": ["es2015", "dom"],
+        "strictFunctionTypes": true,
+        "strict": true,
+        "strictNullChecks": true,
+        "alwaysStrict": true,
+        "strictBindCallApply": true,
+        "strictPropertyInitialization": true,
+        "strictBuiltinIteratorReturn": true,
+    },
+    "typeAcquisition": {
+        "include": [
+            "d3",
+            "jquery"
+        ]
+    }
+}
